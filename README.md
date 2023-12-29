@@ -1,4 +1,4 @@
-# vue2-startup
+# contentful api integration using vue
 
 ## Project setup
 ```
